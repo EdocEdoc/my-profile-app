@@ -43,6 +43,7 @@ expo install
 You ou can download [EXPO GO](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US) in your android mobile device to test the [app](https://expo.dev/@vagenodipa/my-profile-app) on the go!
 
 or Scan using EXPO GO
+
 ![My Image](images/qr.png)
 
 Source code can be found in `src` directory.
